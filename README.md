@@ -1,5 +1,4 @@
-# react-webpack-babel
-Simple React Redux Webpack Babel Starter Kit
+# Jayway Lab on Redux
 
 
 ### What's in it?
@@ -24,12 +23,13 @@ To test
 > $ npm test
 ```
 
+## The Lab:
 
-## To Explore
-
-* Middleware, thunks
-* Make your own redux store
-* Transducers and CSP http://phuu.net/2014/08/31/csp-and-transducers.html
+Choose:
+* Introduce redux to the app (src/app.jsx) 
+* Create your own redux implementation (see unit tests)
+* Explore Middleware, thunks
+* Explore Transducers and CSP http://phuu.net/2014/08/31/csp-and-transducers.html
 * Compare with BaconJS https://medium.com/@milankinen/good-bye-flux-welcome-bacon-rx-23c71abfb1a7
-* Compare with CycleJS
-* CycleJS http://cycle.js.org/
+* Compare with CycleJS http://cycle.js.org/
+
