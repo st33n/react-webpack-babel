@@ -29,5 +29,7 @@ To test
 
 * Middleware, thunks
 * Make your own redux store
-
-
+* Transducers and CSP http://phuu.net/2014/08/31/csp-and-transducers.html
+* Compare with BaconJS https://medium.com/@milankinen/good-bye-flux-welcome-bacon-rx-23c71abfb1a7
+* Compare with CycleJS
+* CycleJS http://cycle.js.org/
