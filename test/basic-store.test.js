@@ -1,6 +1,6 @@
 import expect from 'expect';
 
-describe.only('reducers', () => {
+describe.skip('reducers', () => {
   describe('simple reducer', () => {
     function isLoadingReducer(state, action) {
       return true; // TODO

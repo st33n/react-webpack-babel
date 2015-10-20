@@ -1,5 +1,6 @@
 # Jayway Lab on Redux
 
+[Slides](./redux-slides.pdf)
 
 ### What's in it?
 
